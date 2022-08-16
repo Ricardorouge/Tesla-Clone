@@ -6,7 +6,7 @@ import Header from "./assets/components/Header";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Header/>
+      <Header />
       <CarsList />
       <StatusBar style="auto" />
     </View>
