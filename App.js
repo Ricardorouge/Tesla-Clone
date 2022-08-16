@@ -1,7 +1,7 @@
 import { StatusBar } from "expo-status-bar";
 import { StyleSheet, View } from "react-native";
-import CarsList from "./assets/components/CarsList";
-import Header from "./assets/components/Header";
+import CarsList from "./components/CarsList";
+import Header from "./components/Header";
 
 export default function App() {
   return (
